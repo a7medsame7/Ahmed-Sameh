@@ -59,3 +59,18 @@ background-image: url("654.jpg");
   border: 5px solid ;
   border-color:#fff;
  }
+
+@media (max-width:600px) {
+
+h1{
+  font-size: 30px;
+}
+
+h2{
+  font-size: 20px;
+}
+
+p{
+font-size: 10px;
+  }
+}
