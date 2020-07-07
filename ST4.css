@@ -60,17 +60,34 @@ background-image: url("654.jpg");
   border-color:#fff;
  }
 
-@media (max-width:600px) {
+  @media (max-width:600px) {
 
-h1{
-  font-size: 30px;
-}
-
-h2{
-  font-size: 20px;
-}
-
-p{
-font-size: 10px;
+  h1{
+    font-size: 30px;
   }
+
+  h2{
+    font-size: 20px;
+  }
+
+  p{
+  font-size: 10px;
+  font: sans-serif;
+  }
+
+#img1
+{
+  width: 250px;
+  border: 2.5px solid ;
+  border-color:#fff;
+
+}
+
+#img2
+{
+  width: 189px;
+  border: 2.5px solid ;
+  border-color: rgb(10, 160, 201);
+ }
+
 }
